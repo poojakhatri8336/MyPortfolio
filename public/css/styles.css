@@ -1,143 +1,45 @@
- 
-   /* ---------------------Navbar Section-------------------------------- */
-html, body {
-    height: 100%;
-}
 
 
- .container-fluid {
-    padding-top: 20px;
-    padding-bottom: 20px;
     
-}
-.navbar {
-    width: 100%;
-    height: 85px;
-    font-size: 15px;
-    color: #333;
-    font-weight: 500;
-    background-color: #fff;
-    position: sticky;
-    top: 0;
-    background: #fff;
-    letter-spacing: 1px;
-    box-shadow: 0 10px 100px rgb(0 0 0 / 10%);
-}
-
-.nav-link{
-    color: #333;
-}
-
- .img {
-    height: 50px;
-    margin-right: 10px;
+ .myimg {
+    height: 40px;
+    margin-right: 6px;
+    margin-left: 30px;
   } 
 
-  /* ---------------------Footer Section-------------------------------- */
-
-.footer {
-	position: absolute;
-	text-align: center;
-	bottom: 0;
-    left:0;
-	width: 100%;
-	height: 200px;
-	background-color: #000;
-}
-
-
-.footer h4 a{
-	margin-top: 45px;	
-    color: #fff;
-}
-
-footer .socialicon{
-    color: #fff;  
-   padding: 10px;
-}
-
-
-  /* ---------------------Home Section-------------------------------- */
-
-#home{
-    text-align: center;
+    .navbar {
+        width: 100%;
+        height: 75px;
+        font-size: 15px;
+        color: #333;
+        font-weight: 500;
+        background-color: #fff;
+        position: sticky;
+        top: 0;
+        background: #fff;
+        letter-spacing: 1px;
+        box-shadow: 0 10px 100px rgb(0 0 0 / 10%);
+    }
     
-    padding-bottom: 20px;
-
-}
-
-
-.exph2{
-    margin-top: 15px;
-    text-align: center;
-}
-
-h2{
-    text-align:center;
-    font-size: 35px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-   }
-
-   h5{
-    text-align:center;
-   }
-   
-   .titlediv{
-       
-   }
-   
-   
-   .skillsdiv {
-       display: flex;
-       flex-wrap: wrap;
-       margin-left: 25px;
-   }
-   
-   .skills{
-       padding: 0.5rem 0.5rem;
-       margin-bottom: 1.2rem;
-       margin-right: 1.2rem;
-       font-size: 1rem;
-       background: rgba(153, 153, 153, 0.2);
-       border-radius: 5px;
-       font-weight: 500;
-       color: #778;
-       
-   }
+    footer {
+        height: 150px;
+        padding-top: 15px;
+        padding-left: 15px;
+        color: #FFD740; 
+        background-color: #424242;
+        text-align: center;
+    }
+    
+    footer h4{
+        margin-top: 15px;
+    }
+    
+    footer .socialicon{
+        color: #fff;  
+       padding: 10px;
+    }
+/* Home section */
 
 
-
-
-
-
-
-/*
-.navbar-nav  li a:hover {
-    color: #497174 !important;
-}
-
-.footer-padding {
-	padding-bottom: 60px;
-}
-
-
-
-
-.row {
-    width: 96%;
-    max-width: 1020px;
-    margin: 0 auto;
- }
-
- .columns {
-    position: relative;
-    padding: 0 20px;
-    min-height: 1px;
-    float: left;
- }
-
- .education{
-    padding-bottom: 2em;
-    border-bottom: 1px solid #E8E8E8;
-} */
+    
+    
